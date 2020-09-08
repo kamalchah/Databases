@@ -1,3 +1,4 @@
+# Databases
 This is a tree based data structure database project in which there is a word file containing approx. 
 2000 words and the program parses through that info, adds it to a hashset of strings. 
 My program then parses through this file and adds all of the words to a tree based data structure.
@@ -9,4 +10,4 @@ you would reach if you looked up the key ‘z’. If another string “zombie”
 TBDS, it would be contained in the subtrees of the keys “z” and “zo” as well. With this property
 we can search for a set of keys and values that start with a particular prefix. 
 
-
+![alt text](https://i.gyazo.com/19bc625388b67317e6b88f387908a2a3.png)
